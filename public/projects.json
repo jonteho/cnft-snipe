@@ -1,0 +1,89 @@
+[
+    {
+        "Name": "Mocossi",
+        "PolicyId": "",
+        "ToolsIdentifier": "mocossiplanet",
+        "TraitProperty": "attributes",
+        "Verified": true
+    },
+    {
+        "Name": "VeggieMates",
+        "PolicyId": "",
+        "ToolsIdentifier": "veggiemates",
+        "Verified": true
+    },
+    {
+        "Name": "Clay Nation x Good Charlotte by Clay Mates",
+        "PolicyId": "",
+        "ToolsIdentifier": "claynationxgoodcharlotte",
+        "Verified": true
+    },
+    {
+        "Name": "Pavia",
+        "PolicyId": "4bf184e01e0f163296ab253edd60774e2d34367d0e7b6cbc689b567d",
+        "ToolsIdentifier": "",
+        "Verified": true
+    },
+    {
+        "Name": "Nerds & Virgins",
+        "PolicyId": "",
+        "ToolsIdentifier": "nerdsandvirgins",
+        "TraitProperty": "attributes",
+        "Verified": true
+    },
+    {
+        "Name": "DarkLunars",
+        "PolicyId": "",
+        "ToolsIdentifier": "darklunars",
+        "TraitProperty": "traits",
+        "Verified": true
+    },
+    {
+        "Name": "ADA Apocalypse",
+        "PolicyId": "",
+        "ToolsIdentifier": "adaapocalypse",
+        "Verified": true
+    },
+    {
+        "Name": "CryptoNutz",
+        "PolicyId": "07291887e7aff6504cd5c266a343fe9eec2ed4ad74e0ef3ca1e7a96c",
+        "ToolsIdentifier": "cryptonutz",
+        "Verified": true
+    },
+    {
+        "Name": "HOSKY C(ash grab)NFT",
+        "PolicyId": "",
+        "ToolsIdentifier": "hoskycashgrab",
+        "Verified": true
+    },
+    {
+        "Name": "Yummi Universe - Naru",
+        "PolicyId": "",
+        "ToolsIdentifier": "yummiuniverse",
+        "Verified": true
+    },
+    {
+        "Name": "Yummi Universe - Spoopy Naru",
+        "PolicyId": "",
+        "ToolsIdentifier": "spoopynaru",
+        "Verified": true
+    },
+    {
+        "Name": "Boss Cat Rocket Club",
+        "PolicyId": "",
+        "ToolsIdentifier": "bosscatrocketclub",
+        "Verified": true
+    },
+    {
+        "Name": "ChilledKongs",
+        "PolicyId": "",
+        "ToolsIdentifier": "chilledkongs",
+        "Verified": true
+    },
+    {
+        "Name": "Space Ape Club - SAC Apes",
+        "PolicyId": "",
+        "ToolsIdentifier": "spaceapeclub",
+        "Verified": true
+    }
+]
